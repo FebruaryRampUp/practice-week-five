@@ -1,7 +1,5 @@
 ## Practice Problems
 
-#### Iteration Practice
-
 1. Add 3 to each element in an array [1, 2, 3, 4] with two different techniques.
 
 2. Print every capital letter from A to Z.
