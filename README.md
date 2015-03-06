@@ -4,7 +4,7 @@
 
 2. Print every capital letter from A to Z.
 
-3. `a = [1, 2, 3]` and `b = ["a", "b", "c"]`. Print out 1a, 1a, 1c, 2a, 2b, 2c, 3a, 3b, 3c
+3. `a = [1, 2, 3]` and `b = ["a", "b", "c"]`. Print out 1a, 1b, 1c, 2a, 2b, 2c, 3a, 3b, 3c
 
 4. Write a linear search algorithm for an unsorted list without using any array methods other than Array#length.
 
